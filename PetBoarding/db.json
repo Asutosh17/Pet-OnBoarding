@@ -1,0 +1,54 @@
+{
+  "listing": [
+    {
+      "name": "Doggie",
+      "city": "BBSR",
+      "address": "BBSR",
+      "capacity": "100",
+      "cost_per_day": "300",
+      "verified": "Yes",
+      "rating": "4",
+      "id": 1
+    },
+    {
+      "name": "Katia center",
+      "city": "Baleswar",
+      "address": "Baleswar",
+      "capacity": "69",
+      "cost_per_day": "200",
+      "verified": "No",
+      "rating": "3",
+      "id": 2
+    },
+    {
+      "name": "bhuan kukura sanstha",
+      "city": "Cuttack",
+      "address": "cuttack",
+      "capacity": "50",
+      "cost_per_day": "400",
+      "verified": "Yes",
+      "rating": "1",
+      "id": 3
+    },
+    {
+      "name": "Sarakari swana kendra",
+      "city": "Cuttack",
+      "address": "Cuttack",
+      "capacity": "369",
+      "cost_per_day": "50",
+      "verified": "Yes",
+      "rating": "4",
+      "id": 4
+    },
+    {
+      "name": "Bilati kukura sangathana",
+      "city": "Sambalpur",
+      "address": "Sambalpur",
+      "capacity": "150",
+      "cost_per_day": "369",
+      "verified": "No",
+      "rating": "3",
+      "id": 5
+    }
+  ]
+}
