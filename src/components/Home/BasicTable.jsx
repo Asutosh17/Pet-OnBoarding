@@ -117,7 +117,7 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
         <select style={{border: "none",
           outline: "none"}} onChange={handleSortAsc} value={sortValue}>
           <option style={{border: "none",
-          outline: "none"}}>Please Select Value</option>
+          outline: "none"}}>Select</option>
           {sortOptions.map((item, index) => {
             return (
               <option value={item} key={index}>
@@ -132,7 +132,7 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
         <select style={{border: "none",
           outline: "none"}} onChange={handleSortDesc} value={sortValue}>
           <option style={{border: "none",
-          outline: "none"}}>Please Select Value</option>
+          outline: "none"}}>Select</option>
           {sortOptions.map((item, index) => {
             return (
               <option value={item} key={index}>
